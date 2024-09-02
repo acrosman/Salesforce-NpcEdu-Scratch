@@ -9,6 +9,7 @@
     "AnalyticsQueryService",
     "Assessments",
     "Communities",
+    "ContactsToMultipleAccounts",
     "DataProcessingEngine",
     "DecisionTable",
     "DocumentChecklist",
@@ -47,7 +48,7 @@
     "enhancedNotesSettings": {
       "enableEnhancedNotes": true
     },
-    "ForecastingSettings" : {
+    "ForecastingSettings": {
       "enableForecasts": true
     },
     "lightningExperienceSettings": {
@@ -57,17 +58,18 @@
       "enableS1EncryptedStoragePref2": false
     },
     "industriesSettings": {
-      "enableIndustriesAssessment": true,
-      "enableDiscoveryFrameworkMetadata": true,
-      "enableEducationCloud": true,
-      "enableStudentSuccess": true,
       "enableAcademicOperations": true,
       "enableAlumniRelations": true,
-      "enableCarePlansPreference": true,
       "enableBenefitManagementPreference": true,
       "enableBenefitAndGoalSharingPref": true,
+      "enableCarePlansPreference": true,
+      "enableDiscoveryFrameworkMetadata": true,
+      "enableEducationCloud": true,
+      "enableGroupMembershipPref": true,
+      "enableIndustriesAssessment": true,
       "enableInteractionSummaryPref": true,
-      "enableInteractionSummaryRoleHierarchy": true
+      "enableInteractionSummaryRoleHierarchy": true,
+      "enableStudentSuccess": true
     },
     "InterestTaggingSettings": {
       "enableInterestTagging": true
@@ -86,7 +88,7 @@
       "enableEnhancedPermsetMgmt": true,
       "enableEnhancedProfileMgmt": true,
       "enableNewProfileUI": true,
-      "permsetsInFieldCreation": true 
+      "permsetsInFieldCreation": true
     }
   }
 }

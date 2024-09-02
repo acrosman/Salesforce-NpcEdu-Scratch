@@ -8,6 +8,7 @@
     "AnalyticsQueryService",
     "Assessments",
     "Communities",
+    "ContactsToMultipleAccounts",
     "EnableSetPasswordInApi",
     "Fundraising",
     "Grantmaking",
@@ -47,6 +48,7 @@
       "enableBenefitManagementPreference": true,
       "enableBenefitAndGoalSharingPref": true,
       "enableCarePlansPreference": true,
+      "enableGroupMembershipPref": true,
       "enableGrantmaking": true,
       "enableOutcomes": true
     },
